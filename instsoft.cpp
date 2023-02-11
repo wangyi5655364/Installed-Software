@@ -6,7 +6,7 @@
 //  is installed.
 // ----------------------------------------------------------------------------
 
-
+//and
 // Preprocessor directives.
 #include <Windows.h>
 #include <tchar.h>
